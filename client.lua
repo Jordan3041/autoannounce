@@ -25,11 +25,11 @@ m.suffix = '^6.'
 -- You can use ^0-^9 in your messages to change text color.
 m.messages = {   
     '^1Welcome to West Coast Roleplay! Let us know if you have any questions, comments, or concerns!',
-    '^4To be paart of a Law Enforcement department, you must join our disocrd.',
-    '^8Let us know if you need any help, or have questions!',
+    '^4To be part of a Law Enforcement department, you must join our discord and complete an application.',
+    '^8Let staff know if you need any help, or have questions! We are here for everyone!',
     '^6This server is maintained by WCRP Staff. If you encounter any problems, please submit a ticket in our discord.',
-    '^3Please review all server rules guidlines',
-    '^2Staff are activley taking suggestioins, if you have something you would like to see, submit the link to the discord',
+    '^3Please review all server rules and guidlines to ensure you are in compliance.',
+    '^2Staff are activley taking suggestions, if you have something you would like to see added in, submit the link to the discord suggestions channel.',
 }
 
 -- Player ignore list. These players wont get auto messages.

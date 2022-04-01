@@ -4,6 +4,8 @@ I saw a script like this somewhere but it didnt quite do exacly as I wanted, so 
 
 This script was created to automatically send a message in the chat every so often. The script was written so that you can change the time interval between messages. I have mine set to send a random message every 15 minutes. The script will pick a message from the list that you create, and automatically send a chat message. The reason I wanted something like this was for new people, being able to send support message while in game without having to worry about it myself. You can see in the 'message' box under the client.lua that i have set the messages to say what i wanted them to, but you can tweak that to fit your server. The color code is at the top, and the carrot '^' combined with the number will change the color. Example: ^3Hello everyone! 
 
+This script includes a 'Ignore List' If theres anyone in your server you don't want to get the messages, you can add their steam Hex to the ignore list and it will prevent them from getting the message.
+
 If you run into any issues, let me know that way I can look into it. I have been running this on my server for the last 2 weeks and I have not had an issues at all. 
 
 Installation:
